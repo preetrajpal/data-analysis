@@ -1,0 +1,57 @@
+﻿S No.,study,surgery,Additive,treatment,sampleSize,mean,std.dev,sampleSize2
+2,Aguirre_2015,Ortho,,Prilo,65,330,20.2,
+2,Aguirre_2015,Ortho,,Ropi_H,64,338.7,30.31,30
+4,Ben-David_1996,Ortho,,Bupi_H,30,350.5,46,30
+4,Ben-David_1996,Ortho,,Bupi_L,30,191.5,19,65
+5,Bhaskara_2019,Anorectal,Fentanyl 12.5 mcg,Chlor,30,176.72,12.22,64
+5,Bhaskara_2019,Anorectal,,Ropi_L,30,294.36,25.71,40
+9,Borghi_2003,Ortho,,Bupi_L,60,125,68.38,40
+9,Borghi_2003,Ortho,,Bupi_H,30,170,68.38,30
+11,Breebart_2003,Ortho,,Lido,30,265,70,30
+11,Breebart_2003,Ortho,,Lbupi_H,30,311,56,30
+11,Breebart_2003,Ortho,,Ropi_H,30,305,73,30
+12,Breebart_2014,Ortho,,Lido,50,226,65,30
+12,Breebart_2014,Ortho,,Chlor,50,178,70,30
+14,Camponovo_2014,Elective,,Chlor,64,211,105,20
+14,Camponovo_2014,Elective,,Bupi_H,66,332.5,86.6,20
+15,Cappellery_2005,Ortho,,Lbupi_L,60,225.5,19.9,26
+15,Cappellery_2005,Ortho,,Ropi_L,31,197.25,11.83,22
+18,Dijkstra_2008,Ortho,,Art,39,304,20.2,60
+18,Dijkstra_2008,Ortho,,Bupi_H,38,380.7,28.6,30
+19,Fanneli_2009,Ortho,,Lido,15,210,23,45
+19,Fanneli_2009,Ortho,,Ropi_L,15,295.25,30.3,45
+20,Forster_2011,Ortho,,Chlor,38,318,74.2,30
+20,Forster_2011,Ortho,,Art,38,392,93.2,30
+25,Hodgson_2000,Ortho,,Prilo,35,242,63,30
+25,Hodgson_2000,Ortho,,Lido,35,212.5,43,50
+27,Kaban_2014,Anorectal,Fentanyl 20 mcg,Bupi_L,25,207.2,62.7,50
+27,Kaban_2014,Anorectal,,Prilo,25,155,100,37
+28,Kalio_2004,Ortho,,Ropi_H,60,335.5,52,35
+28,Kalio_2004,Ortho,,Bupi_H,30,357,24.24,64
+30,Lacasse_2011,Elective,,Bupi_H,53,277,87,66
+30,Lacasse_2011,Elective,,Bupi_L,53,353,99,60
+31,Liguori_1998,Ortho,,Lido,27,213,36,31
+31,Liguori_1998,Ortho,,Mepi,30,218,42,15
+32,Martin_2005,Ortho,,Lido,40,241.3,36,15
+32,Martin_2005,Ortho,,Prilo,40,278.9,37,28
+33,Onur_2010,Ortho,,Ropi_L,35,1333,709,31
+33,Onur_2010,Ortho,,Ropi_H,38,1123,389,39
+34,Pawlowski_2012,Ortho,,Lido,41,250,68.38,38
+34,Pawlowski_2012,Ortho,,Mepi,38,280,68.38,15
+36,Santiago_2009,Gynaec,Fentanyl 10 mcg,Lido,26,205,43.2,15
+36,Santiago_2009,Gynaec,,Lbupi_L,26,200.2,50,38
+38,Singh_2020,Elective,,Chlor,30,180,68.38,38
+38,Singh_2020,Elective,,Bupi_H,30,365,68.38,16
+39,Sugumar_2022,Uro,,Chlor,30,211,24,18
+39,Sugumar_2022,Uro,,Bupi_H,30,411.6,34.8,30
+40,Taspinar_2011,Inguinal_hernia,Fentanyl 25 mcg,Ropi_L,25,282,25,60
+40,Taspinar_2011,Inguinal_hernia,,Lbupi_L,25,270,21.2,60
+41,Teunkens_2016,Ortho,,Chlor,32,264,27.6,38
+41,Teunkens_2016,Ortho,,Lido,32,286.5,39.5,37
+41,Teunkens_2016,Ortho,,Bupi_L,35,342,31.1,36
+42,Tsen_2011,Gynaec,Fentanyl 25 mcg,Bupi_L,20,178,40.6,36
+42,Tsen_2011,Gynaec,,Lido,20,144.3,34.7,35
+43,Vaghadia_2012,Uro,Fentanyl 12.5 mcg,Lido,20,167,99,35
+43,Vaghadia_2012,Uro,,Chlor,20,152,74,75
+44,Wesselink_2019,Ortho,,Chlor,72,222,72,75
+44,Wesselink_2019,Ortho,,Prilo,71,282,42,25
