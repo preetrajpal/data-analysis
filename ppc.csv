@@ -1,0 +1,197 @@
+﻿study,samepleSize,Special patient groups,Thoracic,treatment,responders
+Agostini_2013,88,,Thoracotomy,CPT,13
+Agostini_2013,92,,Thoracotomy,IS,11
+Al Jally_2013,63,,VAT,BiPAP,9
+Al Jally_2013,63,,VAT,IS + CPT,23
+Alexandropoulou_2019,21,Obese,,BiPAP,
+Alexandropoulou_2019,14,Obese,,control,5
+Al-Mutaire_2012,36,Smokers,,CPAP,
+Al-Mutaire_2012,36,Smokers,,CPAP,
+Al-Mutaire_2012,36,Smokers,,IS,
+Amin_2021,24,Smokers,Thoracotomy,CPT,
+Amin_2021,24,Smokers,Thoracotomy,IS,
+Amin_2021,24,Smokers,Thoracotomy,IS,
+Baltieri_2014,10,Obese,,IS + CPT,
+Baltieri_2014,10,Obese,,BiPAP,
+Baltieri_2014,10,Obese,,BiPAP,
+Baltieri_2014,10,Obese,,Vibration,
+Barbagallo_2012,25,,Thoracotomy,control,11
+Barbagallo_2012,25,,Thoracotomy,CPAP,8
+Barbalho-Moulim_2011,17,Obese,,control,
+Barbalho-Moulim_2011,15,Obese,,IMT,
+Barros_2010,23,,Thoracotomy,IMT,
+Barros_2010,18,,Thoracotomy,CPT,
+Boden_2017,214,,,EduPre,58
+Boden_2017,218,,,CPT,27
+Bohner_2002,99,,,CPAP,3
+Bohner_2002,105,,,control,10
+Brasher_2003,115,,Thoracotomy,CPT,5
+Brasher_2003,115,,Thoracotomy,CPT,3
+Brocki_2016,34,,Thoracotomy,CPT,21
+Brocki_2016,34,,Thoracotomy,IMT,7
+Casali_2011,15,Obese,,control,
+Casali_2011,15,Obese,,IMT,
+Chen_2019,99,,Thoracotomy,CPT,27
+Chen_2019,98,,Thoracotomy,IMT,10
+Chen_2022,132,Geriatrics,,CPT,17
+Chen_2022,132,Geriatrics,,control,43
+Cho_2014,39,,VAT,IS,
+Cho_2014,39,,VAT,Vibration,
+Cordeiro_2016,25,,Thoracotomy,IMT,
+Cordeiro_2016,25,,Thoracotomy,control,
+Cordeiro_2022,14,Geriatrics,Thoracotomy,IMT,13
+Cordeiro_2022,15,Geriatrics,Thoracotomy,control,26
+Crowe_1997,95,,Thoracotomy,CPT,40
+Crowe_1997,90,,Thoracotomy,IS + CPT,35
+Denehy_2001,18,,,CPT,
+Denehy_2001,32,,,CPAP,
+Dias_2011,11,,Thoracotomy,CPT,
+Dias_2011,12,,Thoracotomy,IS,
+Dias_2011,12,,Thoracotomy,CPT,
+don Santos_2019,12,,Thoracotomy,IMT,
+don Santos_2019,12,,Thoracotomy,IMT,
+Dronkers_2008,10,,,IS + CPT,8
+Dronkers_2008,10,,,IMT,3
+Ebeo_2002,9,Obese,,BiPAP,
+Ebeo_2002,12,Obese,,control,
+Ferreira_2010,8,,Thoracotomy,BiPAP,
+Ferreira_2010,8,,Thoracotomy,IS + EPAP,
+Garcia_2017,12,,VAT,control,8
+Garcia_2017,10,,VAT,IS,5
+Garutti_2014,53,,Thoracotomy,CPAP,11
+Garutti_2014,55,,Thoracotomy,control,13
+Ghoniem_2023,40,Geriatrics,,IS + CPT,9
+Ghoniem_2023,40,Geriatrics,,control,16
+Gosselink_2000,32,,Thoracotomy,IS,4
+Gosselink_2000,35,,Thoracotomy,IS + CPT,4
+Guimarães_2016,11,Obese,,CPAP,
+Guimarães_2016,12,Obese,,control,
+Haeffener_2008,17,,Thoracotomy,CPT,4
+Haeffener_2008,17,,Thoracotomy,IS + EPAP,0
+Hall_1996,79,,,IS,6
+Hall_1996,76,,,CPT,8
+Hall_1996,152,,,IS,29
+Hall_1996,149,,,IS + CPT,19
+Hegazy_2021,50,,Thoracotomy,CPT,
+Hegazy_2021,50,,Thoracotomy,IMT,
+Hernandez_2018,25,,Thoracotomy,BiPAP,8
+Hernandez_2018,25,,Thoracotomy,CPT,10
+Hewidy_2016,24,Obese,,CPAP,7
+Hewidy_2016,22,Obese,,control,11
+Huang_2017,30,Geriatrics,Mixed,IMT + CRT,7
+Huang_2017,30,Geriatrics,Mixed,IMT,8
+Huang_2017,30,Geriatrics,Mixed,control,10
+Huang_2022,15,,,control,8
+Huang_2022,13,,,IMT,1
+Hulzebos_2006_a,139,,Thoracotomy,CPT,48
+Hulzebos_2006_a,137,,Thoracotomy,IMT,25
+Hulzebos_2006_b,14,Geriatrics,Thoracotomy,IMT,9
+Hulzebos_2006_b,12,Geriatrics,Thoracotomy,control,12
+Khanna_2013,30,,,CPT,
+Khanna_2013,30,,,IS,
+Kilic_2018,15,,,control,4
+Kilic_2018,15,,,CPAP,2
+Kilic_2018,15,,,BiPAP,3
+Kulkarni_2010,17,,,control,
+Kulkarni_2010,17,,,CPT,
+Kulkarni_2010,15,,,IS,
+Kulkarni_2010,17,,,IMT,
+Kundra_2010,25,,,IS,
+Kundra_2010,25,,,IS,
+Lai_2017_a,30,Geriatrics,Mixed,IMT,14
+Lai_2017_a,30,Geriatrics,Mixed,control,18
+Lai_2017_b,51,Geriatrics,Mixed,IS + CPT,9
+Lai_2017_b,50,Geriatrics,Mixed,control,10
+Lioa_2010,27,,,control,2
+Lioa_2010,23,,,BiPAP,4
+Llorens_2015,21,Obese,,control,
+Llorens_2015,23,Obese,,IMT,
+Llorens_2017,21,Obese,,IMT,
+Llorens_2017,23,Obese,,IS,
+Lorut_2014,181,COPD,,BiPAP,29
+Lorut_2014,179,COPD,,control,28
+Ludwig_2011,80,,Thoracotomy,CPT,5
+Ludwig_2011,55,,Thoracotomy,IPPB,3
+Lunardi_2015,35,,,control,0
+Lunardi_2015,33,,,IS,3
+Lunardi_2015,35,,,CPT,8
+Lunardi_2015,34,,,IS,3
+Mackay_2005,21,Obese,,MobiEarly,3
+Mackay_2005,29,Obese,,CPT,5
+Malik_2018,192,,Mixed,CPT,25
+Malik_2018,195,,Mixed,IS + CPT,24
+Manapunsopee_2020,47,,Thoracotomy,IS,13
+Manapunsopee_2020,43,,Thoracotomy,CPT,13
+Manzano_2008,16,,,control,
+Manzano_2008,15,,,CPT,
+Matheus_2012,24,Obese + Smokers,Thoracotomy,IS + CPT,23
+Matheus_2012,23,Obese + Smokers,Thoracotomy,IMT,27
+Matte_2000,30,,Thoracotomy,NIV,5
+Matte_2000,30,,Thoracotomy,IS,9
+Matte_2000,30,,Thoracotomy,CPAP,5
+Morano_2013,12,Smokers,Thoracotomy,IMT,2
+Morano_2013,12,Smokers,Thoracotomy,CPT,7
+Neligan_2009,20,Obese,,control,
+Neligan_2009,20,Obese,,CPAP,
+Nery_2012,15,,Thoracotomy,CPAP,
+Nery_2012,15,,Thoracotomy,CPT,
+Olsen_1997,174,,,CPT,
+Olsen_1997,194,,,control,
+Palleschi_2018,82,,Mixed,CPAP,9
+Palleschi_2018,81,,Mixed,CPT,15
+Pantel_2017,112,,,IS,11
+Pantel_2017,112,,,control,1
+Perrin_2007,14,Smokers,Thoracotomy,BIPAP,2
+Perrin_2007,18,Smokers,Thoracotomy,CPT,12
+PessoaKC_2010,10,Obese,,BiPAP,1
+PessoaKC_2010,8,Obese,,control,3
+Preto_2011,13,,,CRT,7
+Preto_2011,13,,,BiPAP + CRT,8
+Qin_2021,120,,,CPT,4
+Qin_2021,120,,,control,12
+Reeve_2010,42,Obese + Smokers,Thoracotomy,CPT,2
+Reeve_2010,34,Obese + Smokers,Thoracotomy,control,1
+Roceto_2014,20,Smokers,Thoracotomy,CPAP,
+Roceto_2014,20,Smokers,Thoracotomy,CPT,
+Rocha_2018,23,Obese,,CPT,1
+Rocha_2018,22,Obese,,BiPAP,1
+Romanini_2007,20,,Thoracotomy,IS,
+Romanini_2007,20,,Thoracotomy,IPPB,
+Rowley_2019,56,,,IS,0
+Rowley_2019,56,,,IS + EPAP,1
+Sah_2017,20,,,IS,
+Sah_2017,20,,,CPAP,
+Sah_2017,20,,,control,
+Savci_2011,22,Smokers,Thoracotomy,IMT,
+Savci_2011,21,Smokers,Thoracotomy,CPT,
+Shahood_2022,46,Obese + Smokers,Thoracotomy,CPT,
+Shahood_2022,54,Obese + Smokers,Thoracotomy,CPT,
+Shakouri_2015,30,,Thoracotomy,IS + CPT,
+Shakouri_2015,30,,Thoracotomy,IS + CPT,
+Silva_2013,28,,,MobiEarly,6
+Silva_2013,28,,,CPT,7
+Silva_2013,30,,,CPT,3
+Singh_2022,25,,,IS + CPT,2
+Singh_2022,25,,,control,9
+Soares_2013,16,Cancer,,IMT,5
+Soares_2013,16,Cancer,,CPT,11
+Su_2023,15,,Thoracotomy,CPAP,
+Su_2023,17,,Thoracotomy,control,
+Sweity_2021,40,,Thoracotomy,IS,15
+Sweity_2021,40,,Thoracotomy,IS,36
+Taskin_2020,20,,Mixed,CPT,
+Taskin_2020,20,,Mixed,IMT,
+Turkey_2017,20,,Thoracotomy,IMT,
+Turkey_2017,20,,Thoracotomy,CPT,
+Tyson_2015,75,,,IS,
+Tyson_2015,75,,,CPT,
+Valkenet_2018,121,,Mixed,control,43
+Valkenet_2018,120,,Mixed,IMT,47
+Weiner_1997,17,COPD,Thoracotomy,IS + IMT,2
+Weiner_1997,15,COPD,Thoracotomy,control,2
+Weiner_1998,42,,Thoracotomy,control,11
+Weiner_1998,42,,Thoracotomy,IMT,2
+Westerdahl_2005,42,Smokers,Thoracotomy,CPT,6
+Westerdahl_2005,48,Smokers,Thoracotomy,CPT,11
+Wong_2011,38,Obese,,control,
+Wong_2011,43,Obese,,CPAP,
