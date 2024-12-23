@@ -1,0 +1,117 @@
+﻿study,sampleSize,Special patient groups,Thoracic,treatment,responders
+Agostini_2013,88,,Thoracotomy,DBE,13
+Agostini_2013,92,,Thoracotomy,ISPost,11
+Al Jally_2013,63,,VAT,BiPAP,9
+Al Jally_2013,63,,VAT,ISPost + CPT,23
+Alexandropoulou_2019,21,Obese,,BiPAP,0
+Alexandropoulou_2019,14,Obese,,control,5
+Barbagallo_2012,25,,Thoracotomy,control,11
+Barbagallo_2012,25,,Thoracotomy,CPAP,8
+Boden_2017,214,,,EduPre,58
+Boden_2017,218,,,CPT,27
+Bohner_2002,99,,,CPAP,3
+Bohner_2002,105,,,control,10
+Brasher_2003,115,,Thoracotomy,DBE,5
+Brasher_2003,115,,Thoracotomy,CPT,3
+Brocki_2016,34,,Thoracotomy,CPT,21
+Brocki_2016,34,,Thoracotomy,IMT,7
+Chen_2019,99,,Thoracotomy,CPT,27
+Chen_2019,98,,Thoracotomy,IMT,10
+Chen_2022,132,Geriatrics,,DBE,17
+Chen_2022,132,Geriatrics,,control,43
+Cordeiro_2022,14,Geriatrics,Thoracotomy,IMT,13
+Cordeiro_2022,15,Geriatrics,Thoracotomy,control,26
+Crowe_1997,95,,Thoracotomy,CPT,40
+Crowe_1997,90,,Thoracotomy,ISPost + CPT,35
+Dronkers_2008,10,,,ISPre + CPT,8
+Dronkers_2008,10,,,IMT,3
+Garcia_2017,12,,VAT,control,8
+Garcia_2017,10,,VAT,ISPre,5
+Garutti_2014,53,,Thoracotomy,CPAP,11
+Garutti_2014,55,,Thoracotomy,control,13
+Ghoniem_2023,40,Geriatrics,,ISPost + CPT,9
+Ghoniem_2023,40,Geriatrics,,control,16
+Gosselink_2000,32,,Thoracotomy,ISPre,4
+Gosselink_2000,35,,Thoracotomy,ISPre + CPT,4
+Haeffener_2008,17,,Thoracotomy,DBE,4
+Haeffener_2008,17,,Thoracotomy,IS + EPAP,0
+Hall_1996,76,,,CPT,8
+Hall_1996,231,,,ISPost,35
+Hall_1996,149,,,ISPost + CPT,20
+Hernandez_2018,25,,Thoracotomy,BiPAP,8
+Hernandez_2018,25,,Thoracotomy,CPT,10
+Hewidy_2016,24,Obese,,CPAP,7
+Hewidy_2016,22,Obese,,control,11
+Huang_2017,30,Geriatrics,Mixed,IMT + CRT,7
+Huang_2017,30,Geriatrics,Mixed,IMT,8
+Huang_2017,30,Geriatrics,Mixed,control,10
+Huang_2022,15,,,control,8
+Huang_2022,13,,,IMT,1
+Hulzebos_2006_a,139,,Thoracotomy,DBE,48
+Hulzebos_2006_a,137,,Thoracotomy,IMT,25
+Hulzebos_2006_b,14,Geriatrics,Thoracotomy,IMT,9
+Hulzebos_2006_b,12,Geriatrics,Thoracotomy,control,12
+Kilic_2018,15,,,control,4
+Kilic_2018,15,,,CPAP,2
+Kilic_2018,15,,,BiPAP,3
+Lai_2017_a,30,Geriatrics,Mixed,IMT,14
+Lai_2017_a,30,Geriatrics,Mixed,control,18
+Lai_2017_b,51,Geriatrics,Mixed,ISPre + CPT,9
+Lai_2017_b,50,Geriatrics,Mixed,control,10
+Lioa_2010,27,,,control,2
+Lioa_2010,23,,,BiPAP,4
+Lorut_2014,181,COPD,,BiPAP,29
+Lorut_2014,179,COPD,,control,28
+Ludwig_2011,80,,Thoracotomy,CPT,5
+Ludwig_2011,55,,Thoracotomy,IPPB,3
+Lunardi_2015,35,,,control,0
+Lunardi_2015,67,,,ISPost,6
+Lunardi_2015,35,,,DBE,8
+Mackay_2005,21,Obese,,MobiEarly,3
+Mackay_2005,29,Obese,,DBE,5
+Malik_2018,192,,Mixed,CPT,25
+Malik_2018,195,,Mixed,ISPost + CPT,24
+Manapunsopee_2020,47,,Thoracotomy,ISPost,13
+Manapunsopee_2020,43,,Thoracotomy,DBE,13
+Matheus_2012,24,Obese + Smokers,Thoracotomy,ISPost + CPT,23
+Matheus_2012,23,Obese + Smokers,Thoracotomy,IMT,27
+Matte_2000,30,,Thoracotomy,BiPAP,5
+Matte_2000,30,,Thoracotomy,ISPost,9
+Matte_2000,30,,Thoracotomy,CPAP,5
+Morano_2013,12,Smokers,Thoracotomy,IMT,2
+Morano_2013,12,Smokers,Thoracotomy,CPT,7
+Palleschi_2018,82,,Mixed,CPAP,9
+Palleschi_2018,81,,Mixed,CPT,15
+Pantel_2017,112,,,ISPost,11
+Pantel_2017,112,,,control,1
+Perrin_2007,14,Smokers,Thoracotomy,BIPAP,2
+Perrin_2007,18,Smokers,Thoracotomy,CPT,12
+PessoaKC_2010,10,Obese,,BiPAP,1
+PessoaKC_2010,8,Obese,,control,3
+Preto_2011,13,,,CRT,7
+Preto_2011,13,,,BiPAP + CRT,8
+Qin_2021,120,,,DBE,4
+Qin_2021,120,,,control,12
+Reeve_2010,42,Obese + Smokers,Thoracotomy,CPT,2
+Reeve_2010,34,Obese + Smokers,Thoracotomy,control,1
+Rocha_2018,23,Obese,,CPT,1
+Rocha_2018,22,Obese,,BiPAP,1
+Rowley_2019,56,,,ISPost,0
+Rowley_2019,56,,,IS + EPAP,1
+Silva_2013,28,,,MobiEarly,6
+Silva_2013,28,,,MobiEarly + DBE,7
+Silva_2013,30,,,DBE,3
+Singh_2022,25,,,ISPre + CPT,2
+Singh_2022,25,,,control,9
+Soares_2013,16,Cancer,,IMT,5
+Soares_2013,16,Cancer,,CPT,11
+Sweity_2021,40,,Thoracotomy,ISPre,15
+Sweity_2021,40,,Thoracotomy,ISPost,36
+Valkenet_2018,121,,Mixed,control,43
+Valkenet_2018,120,,Mixed,IMT,47
+Weiner_1997,17,COPD,Thoracotomy,IMT + IS,2
+Weiner_1997,15,COPD,Thoracotomy,control,2
+Weiner_1998,42,,Thoracotomy,control,11
+Weiner_1998,42,,Thoracotomy,IMT,2
+Westerdahl_2005,42,Smokers,Thoracotomy,control,6
+Westerdahl_2005,48,Smokers,Thoracotomy,DBE,11
