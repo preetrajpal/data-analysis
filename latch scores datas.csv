@@ -1,0 +1,17 @@
+﻿,MRN,,,Latch score from neonate record,mean scores,Latch score from maternal record (search BF assist on flowsheets),Gestational age at delivery,NICU?,plan to breast feed? (assusmed Y if breastsfeeding),Discharge lactation communication,lactation consult note,Age at delivery,delivery datetime,BMI,Race,,,Ethnicity,Diabetes,Smoking status
+1,6,,,"9,9",9,n/a,40w2d,N,Y,breastfeeding well without difficulty,N,28,10/1/2023 5:51:00 AM,not in record,White,,,Not Hispanic or Latino,N,Never
+2,7,,,"8,7,8,9,8",8,"8,9,9",38w5d,N,Y,"""infant is BF well""",Y,28,9/21/2023 10:27:00 AM,37.96,White,,,Hispanic or Latino,N,Never
+3,8,,,"8,8",8,n/a,39w3d,N,Y,breastfeeding well without difficulty,N,26,4/5/2021 10:22:00 AM,25.06,White,,,Hispanic or Latino,N,Former
+4,18,,,"8,7,8,7,8",7.6,"8, 8",39w0d,N,Y,n/a,Y (latch difficulty),28,11/25/2022 7:56:00 AM,30.58,White,,,Not Hispanic or Latino,N,Never
+5,19,,,"10,9,10",9.67,n/a,39w2d,N?,Y,"""breastfeeding going well"" obgyn note POD1",N,33,6/3/2023 9:46:00 AM,30.02,White,,,Not Hispanic or Latino,N,Never
+6,20,,,"9,9,9,9,10,10,10",9.43,9,39w0d,N,Y,breastfeedinng well,Y,36,1/8/2020 8:18:00 AM,not in record,White,,,Not Hispanic or Latino,N,Never
+7,25,,,"5,7,5,6,8,8,10,9",7.25,5,40w1d,N,Y,"""Infant latched well with nutritive suck for 15 minutes""- lactation note. ""breastfeeding""-RN note",Y (difficuly latching in first 24hrs. Latched well on 2nd lactation notePOD2),33,4/6/2023 9:49:00 PM,30.31,Asian,,,Not Hispanic or Latino,N,Never
+8,31 (pt w/ HELLP syndrome),,,"6,5,8,7,7,8,9,8,9",7.44,n/a,38w3d,N,Y,n/a,"Y (seen for sore nipples, mother feeding well)",34,12/27/2022 9:31:00 PM,24.45,White,,,Not Hispanic or Latino,N,Never
+9,37,,,"9,10",9.5,n/a,38w6d,N,Y,breastfeeding well without difficulty,Y (looks like evryone at Delnor hospital gets generic lactation note),30,5/15/2023 7:38:00 AM,30.74,White,,,Not Hispanic or Latino,N,Never
+10,40,,,"9,8,7",8,n/a,37w4d,N,Y,breastfeeding well without difficulty,N,37,7/6/2023 3:29:00 AM,32.27,White,,,Not Hispanic or Latino,N,Former
+11,41,,,"7,7,8,7,7,9,5,9,9,9,10",7.9,n/a,37w1d,N,Y,Latch difficulty at DC (POD3). 3 days post discharge lactation note states breast feeding well. ,Y (looks like evryone at Delnor hospital gets generic lactation note),29,10/7/2021 6:35:00 AM,33.98,White,,,Not Hispanic or Latino,N,Never
+12,45,,,"9,9,9,10,10,8",9.17,9,37w0d,N,Y,"""milking starting to come in, doing BR-P-BTL plan""",Y (mom going to take estradiol for cervical cancer s/p hysterectomy at delivery). ,37,4/21/2021 8:35:00 AM,29.5,Asian,,,Not Hispanic or Latino,N,Never
+13,54,,,"4,7,6",5.67,4,38w2d,N,Y ,breatsfeeding well without difficulty. ,Y- latch difficulty ,35,5/9/2022 9:41:00 AM,26.4,White,,,Not Hispanic or Latino,N,Never
+14,55,,,"5,7,8,4",6,"4,7,10 (latch score of 7 and 10 were 2-4 weeks postpartum on lactation consults)",39w1d,N,Y ,"disorganized suck, sleepy baby""",Y,33,8/10/2023 7:46:00 AM,38.31,White,,,Hispanic or Latino,N,Never
+15,57,,,"8,9,10",9,n/a,39w2d,Y,Y ,"""  She is breast pumping"". Baby in SCN",Y,32,6/11/2023 3:08:00 PM,28.32,Unknown,,,Unknown,N,Never
+16,58,,,"7,7,6,7,7,8,7,8,8,8,9,8",7.5,n/a,39w2d,N,Y  (according to prog note),No info,N,34,9/24/2022 9:51:00 AM,33.82,None of the above,,,Hispanic or Latino,N,Never
