@@ -1,4 +1,6 @@
 ﻿Serial No,Age,Parity,Race,Weight,Height,BMI,ASA,Gestational age,Previous h/o pre-eclampsia,Pre-eclampsia ,Pre-eclampsia with severe features,other comorbidities,Time,Heart rate,SBP,DBP,MAP,Spo2, r distress Supine, r distress upright,Headache,Upper abdominal pain,Highest Oxygen requirement in L/min,Diuretics ,betablocker others ,nifedipine ,other,Hgb,Platelets,Creatinine,Bilirubin  direct,Bilirubin indirect,AST,ALT,Urine protein,US score Rt 3/4, US scoreLeft 3/4, US score Right 6/7,US Score Left 6/7,US Score right 6/7,Mean score
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1,34,1,Asian,59.3,167.6,24.05,2,37 w,no,no,No (post partum yes),hypothyroidism,3:55 PM,88,119,73,,96, No,No,No,no ,no,no,no,no,,11.6,376,0.59,T0.2,,17,14,nil,2,1,1,1,5,2
 2,21,0,african american,77.5,162.6,29.3,2,39w,no,no,No (post partum yes),GHTN,4:35PM,102,132,79,,100,no ,no,no,no ,no,no,no,no,,10,143,0.85,T 0.2,,37,18,nil,2,0,3,2,7,2.8
 3,37,0,caucasian,92.4,167.6,32,2,39w,no ,no,no,"NICM ,Ehlers Danlos",4:51PM,90,144,95,,97,no ,no,no,no ,no,no,Metoprolol XL 25,no,no,10.1,204,0.61,T 0.3,,23,10,nil,3,4,3,4,14,5.6
@@ -11,14 +13,14 @@
 10,37,G2P1,caucasian,267.4,189,79.95,3,38w2d,no,yes,yes,cHTN,12:33PM,90,170,81,,95,yes,yes,no,no ,3L,no,no,120 mg 12pm,,12.4,265,0.49,0.4,,23,20,24.5,7,7,7,7,28,11.2
 11,40,G3P2,caucasian,81.1,165.1,29.75,2,38w1d,no,no,no,IVF,12:53PM,103,140,80,,100,no ,no,no,no ,no,no,no,no,no,10.1,224,0.6,0.2,,20,18,nil,1,0,1,1,3,1.2
 12,31,G2P1,African american,103,175,33.63,2,38w,yes,no,no,cHTN,2:05PM,73,137,78,,98,no ,no,no,no ,no,no,no,no,no,9,220,0.5,0.2,,11,7,nil,2,2,2,1,7,2.8
-13,41,G5P1122,caucasian,137,165,50.4,3,32w4d,no,yes,yes,cHTN,10:36PM,100,130,70,,92,yes,yes,no,no ,no,no,no,60XL HM,no,12.4,264,0.73,0.2,,19,14,1+,6,6,7,7,26,10.4
-14,32,G2P1,Hispanic ,97,160,37.8,3,31w3d,no,yes,no,,11:12 AM,69,136,82,,95,no ,no,no,yes,no,no,no,no,no,9.6,164,0.81,0.2,,52,57,3+,5,6,6,4,21,8.4
-15,28,0,african american,98.9,175,32.2,3,35w3d,no,yes,no,cHTN,11:26AM,51,118,64,,98,no ,no,yes,no ,no,no,no,no,no,10.1,171,0.6,0.4,,12,9,2+,3,5,3,3,14,5.6
-16,27,G5P2123,caucasian,98.4,149,43.8,3,31w1d,no,yes,yes,cHTN,10:00 AM,93,135,80,,95,no ,no,no,no ,no,no,labetalol 600 8,120 8:30,no,12.3,243,0.6,0.2,,15,11,nil,3,4,6,5,18,7.2
-17,22,G1P0,caucasian,75.8,152,32.61,3,31w4d,no,yes,yes,GHTN,10:24AM,92,120,70,,96,no ,no,no,no ,no,no,no,60,no,10.9,294,0.5,0.2,,15,11,nil,4,4,4,3,15,6
-18,36,G2P1,caucasian,88.7,165,32.5,2,34w6d,no,yes,no,,11:19 AM,71,119,65,,94,no ,no,no,no ,no,no,no,no,no,13,242,0.5,0.3,,43,31,nil,5,5,5,4,19,7.6
+13,41,G5P1122,caucasian,137,165,50.4,3,32w4d,no,yes,yes,cHTN,10:36PM,100,178,83,,92,yes,yes,no,no ,no,no,no,60XL HM,no,12.4,264,0.73,0.2,,19,14,1+,6,6,7,7,26,10.4
+14,32,G2P1,Hispanic ,97,160,37.8,3,31w3d,no,yes,no,,11:12 AM,69,157,90,,95,no ,no,no,yes,no,no,no,no,no,9.6,164,0.81,0.2,,52,57,3+,5,6,6,4,21,8.4
+15,28,0,african american,98.9,175,32.2,3,35w3d,no,yes,no,cHTN,11:26AM,60,159,94,,98,no ,no,yes,no ,no,no,no,no,no,10.1,171,0.6,0.4,,12,9,2+,3,5,3,3,14,5.6
+16,27,G5P2123,caucasian,98.4,149,43.8,3,31w1d,no,yes,yes,cHTN,10:00 AM,93,181,114,,95,no ,no,no,no ,no,no,labetalol 600 8,120 8:30,no,12.3,243,0.6,0.2,,15,11,nil,3,4,6,5,18,7.2
+17,22,G1P0,caucasian,75.8,152,32.61,3,31w4d,no,yes,yes,GHTN,10:24AM,92,142,84,,96,no ,no,no,no ,no,no,no,60,no,10.9,294,0.5,0.2,,15,11,nil,4,4,4,3,15,6
+18,36,G2P1,caucasian,88.7,165,32.5,2,34w6d,no,yes,no,,11:19 AM,71,142,90,,94,no ,no,no,no ,no,no,no,no,no,13,242,0.5,0.3,,43,31,nil,5,5,5,4,19,7.6
 19,27,G2P1,caucasian,87.5,165,32.12,2,39w1d,no,no,no,no,11:49 AM,121,122,74,,100,no ,no,no,no ,no,no,no,no,no,8.4,255,0.4,0.3,,18,32,nil,3,3,2,3,11,4.4
 20,23,G1P0,caucasian,120.6,167,42.9,3,38w,no,no,no  ,GHTN,2:14PM,87,124,62,,99,no ,no,no,no ,no,no,no,no,no,10.8,162,0.55,0.2,,14,15,nil,2,2,2,2,8,3.2
 21,30,G2P1,caucasian,154,170,53,3,38w,no ,no,no,GHTN,12:58PM,77,115,61,,100,no ,no,no,no ,no,no,no,no,no,12.8,198,0.6,0.3,,28,24,27.2,4,4,4,4,16,6.4
 22,33,G2P1,caucasian,93.6,170,32.3,2,39w,no,no,no,no,1:19PM,82,109,64,,100,no ,no,no,no ,no,no,no,no,no,11.5,191,,,,,,nil,2,2,3,2,9,3.6
-23,28,G2P1,caucasian,119,167,42.21,2,38w2d,yes,yes,no,no,1:48PM,80,140,80,,100,no ,no,no,no ,no,no,no,no,no,13.1,187,0.6,0.3,,25,13,1=,5,3,4,5,17,6.8
+23,28,G2P1,caucasian,119,167,42.21,2,38w2d,yes,yes,no,no,1:48PM,80,150,90,,100,no ,no,no,no ,no,no,no,no,no,13.1,187,0.6,0.3,,25,13,1=,5,3,4,5,17,6.8
