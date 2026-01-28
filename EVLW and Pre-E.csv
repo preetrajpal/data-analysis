@@ -1,8 +1,8 @@
-﻿Serial No,Age,Parity,Race,Weight,Height,BMI,ASA,Gestational age,Previous h/o pre-eclampsia,Pre-eclampsia ,Pre-eclampsia with severe features,other comorbidities,Time,Heart rate,SBP,DBP,MAP,Spo2, r distress Supine, r distress upright,Headache,Upper abdominal pain,Highest Oxygen requirement in L/min,Diuretics ,betablocker others ,nifedipine ,other,Hgb,Platelets,Creatinine,Bilirubin  direct,Bilirubin indirect,AST,ALT,Urine protein,US score Rt 3/4, US scoreLeft 3/4, US score Right 6/7,US Score Left 6/7,total US score,Mean score
+﻿Serial No,Age,Parity,Race,Weight,Height,BMI,ASA,Gestational age,Previous h/o pre-eclampsia,Pre-eclampsia ,Pre-eclampsia with severe features,other comorbidities,Time,Heart rate,SBP,DBP,MAP,Spo2, r distress Supine, r distress upright,Headache,Upper abdominal pain,Highest Oxygen requirement in L/min,Diuretics ,betablocker others ,nifedipine ,other,Hgb,Platelets,Creatinine,Bilirubin  direct,Bilirubin indirect,AST,ALT,Urine protein,US score Rt 3/4, US scoreLeft 3/4, US score Right 6/7,US Score Left 6/7,Total,Mean score
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,34,1,Asian,59.3,167.6,24.05,2,37 w,no,no,No (post partum yes),hypothyroidism,3:55 PM,88,119,73,,96, No,No,No,no ,no,no,no,no,,11.6,376,0.59,T0.2,,17,14,nil,2,1,1,1,5,2
-2,21,0,african american,77.5,162.6,29.3,2,39w,no,no,No (post partum yes),GHTN,4:35PM,102,132,79,,100,no ,no,no,no ,no,no,no,no,,10,143,0.85,T 0.2,,37,18,nil,2,0,3,2,7,2.8
+1,34,1,Asian,59.3,167.6,24.05,2,37 w,no,no,No (post partum yes),hypothyroidism,3:55 PM,88,119,73,,96, No,No,No,no ,no,no,no,no,no,11.6,376,0.59,T0.2,,17,14,nil,2,1,1,1,5,2
+2,21,0,african american,77.5,162.6,29.3,2,39w,no,no,No (post partum yes),GHTN,4:35PM,102,132,79,,100,no ,no,no,no ,no,no,no,no,no,10,143,0.85,T 0.2,,37,18,nil,2,0,3,2,7,2.8
 3,37,0,caucasian,92.4,167.6,32,2,39w,no ,no,no,"NICM ,Ehlers Danlos",4:51PM,90,144,95,,97,no ,no,no,no ,no,no,Metoprolol XL 25,no,no,10.1,204,0.61,T 0.3,,23,10,nil,3,4,3,4,14,5.6
 4,34,0,caucasian,72,180.3,22.3,2,41w,no ,no,no ,,11:23 AM,64,139,90,,97,no ,no,no,no ,no,no,no,no,no,12.4,134,0.6,T0.2,,26,15,nil,2,1,2,3,8,3.2
 5,31,P0202,African american,120,160,49,2,36w6d,yes,no,No (post partum yes),,12:38,71,122,72,,97,no ,no,no,no ,no,no,no,no,no,10.8,216,0.8,T0.2,,21,11,nil,1,0,1,2,4,1.6
@@ -10,17 +10,46 @@
 7,34,,caucasian,72.5,167,25.8,2,39w,no,no ,no,,1:44PM,66,119,85,,98,no ,no,no,no ,no,no,no,no,no,11.4,259,0.8,,,30,24,nil,2,2,1,1,6,2.4
 8,28,G6P2032,African american,108.9,160,42.51,3,37w6d,no,no,no,cHTN,3:19PM,103,122,60,,100,no ,no,no,no ,no,no,no,no,no,11.4,282,0.73,0.2,,42,43,nil,1,1,2,2,6,2.4
 9,24,G3P2,african american,70.9,154,29.5,3,39w1d,no,no,no,gHTN,3:30 PM,90,114,59,,100,no ,no,no,no ,no,no,no,no,no,12.5,345,0.7,0.3,,32,8,nil,1,1,1,1,4,1.6
-10,37,G2P1,caucasian,267.4,189,79.95,3,38w2d,no,yes,yes,cHTN,12:33PM,90,170,81,,95,yes,yes,no,no ,3L,no,no,120 mg 12pm,,12.4,265,0.49,0.4,,23,20,24.5,7,7,7,7,28,11.2
+10,37,G2P1,caucasian,267.4,189,79.95,3,38w2d,no,yes,yes,cHTN,12:33PM,90,170,81,,95,yes,yes,no,no ,3L,no,no,120 mg 12pm,Mg,12.4,265,0.49,0.4,,23,20,24.5,7,7,7,7,28,11.2
 11,40,G3P2,caucasian,81.1,165.1,29.75,2,38w1d,no,no,no,IVF,12:53PM,103,140,80,,100,no ,no,no,no ,no,no,no,no,no,10.1,224,0.6,0.2,,20,18,nil,1,0,1,1,3,1.2
 12,31,G2P1,African american,103,175,33.63,2,38w,yes,no,no,cHTN,2:05PM,73,137,78,,98,no ,no,no,no ,no,no,no,no,no,9,220,0.5,0.2,,11,7,nil,2,2,2,1,7,2.8
-13,41,G5P1122,caucasian,137,165,50.4,3,32w4d,no,yes,yes,cHTN,10:36PM,100,178,83,,92,yes,yes,no,no ,no,no,no,60XL HM,no,12.4,264,0.73,0.2,,19,14,1+,6,6,7,7,26,10.4
-14,32,G2P1,Hispanic ,97,160,37.8,3,31w3d,no,yes,no,,11:12 AM,69,157,90,,95,no ,no,no,yes,no,no,no,no,no,9.6,164,0.81,0.2,,52,57,3+,5,6,6,4,21,8.4
-15,28,0,african american,98.9,175,32.2,3,35w3d,no,yes,no,cHTN,11:26AM,60,159,94,,98,no ,no,yes,no ,no,no,no,no,no,10.1,171,0.6,0.4,,12,9,2+,3,5,3,3,14,5.6
-16,27,G5P2123,caucasian,98.4,149,43.8,3,31w1d,no,yes,yes,cHTN,10:00 AM,93,181,114,,95,no ,no,no,no ,no,no,labetalol 600 8,120 8:30,no,12.3,243,0.6,0.2,,15,11,nil,3,4,6,5,18,7.2
-17,22,G1P0,caucasian,75.8,152,32.61,3,31w4d,no,yes,yes,GHTN,10:24AM,92,142,84,,96,no ,no,no,no ,no,no,no,60,no,10.9,294,0.5,0.2,,15,11,nil,4,4,4,3,15,6
-18,36,G2P1,caucasian,88.7,165,32.5,2,34w6d,no,yes,no,,11:19 AM,71,142,90,,94,no ,no,no,no ,no,no,no,no,no,13,242,0.5,0.3,,43,31,nil,5,5,5,4,19,7.6
+13,41,G5P1122,caucasian,137,165,50.4,3,32w4d,no,yes,yes,cHTN,10:36PM,100,130,70,,92,yes,yes,no,no ,no,no,no,60XL HM,Mg,12.4,264,0.73,0.2,,19,14,1+,6,6,7,7,26,10.4
+14,32,G2P1,Hispanic ,97,160,37.8,3,31w3d,no,yes,no,,11:12 AM,69,136,82,,95,no ,no,no,yes,no,no,no,no,Mg,9.6,164,0.81,0.2,,52,57,3+,5,6,6,4,21,8.4
+15,28,0,african american,98.9,175,32.2,3,35w3d,no,yes,no,cHTN,11:26AM,51,118,64,,98,no ,no,yes,no ,no,no,no,no,Mg,10.1,171,0.6,0.4,,12,9,2+,3,5,3,3,14,5.6
+16,27,G5P2123,caucasian,98.4,149,43.8,3,31w1d,no,yes,yes,cHTN,10:00 AM,93,135,80,,95,no ,no,no,no ,no,no,labetalol 600 8,120 8:30,Mg,12.3,243,0.6,0.2,,15,11,nil,3,4,6,5,18,7.2
+17,22,G1P0,caucasian,75.8,152,32.61,3,31w4d,no,yes,yes,GHTN,10:24AM,92,120,70,,96,no ,no,no,no ,no,no,no,60,Mg,10.9,294,0.5,0.2,,15,11,nil,4,4,4,3,15,6
+18,36,G2P1,caucasian,88.7,165,32.5,2,34w6d,no,yes,no,,11:19 AM,71,119,65,,94,no ,no,no,no ,no,no,no,no,Mg,13,242,0.5,0.3,,43,31,nil,5,5,5,4,19,7.6
 19,27,G2P1,caucasian,87.5,165,32.12,2,39w1d,no,no,no,no,11:49 AM,121,122,74,,100,no ,no,no,no ,no,no,no,no,no,8.4,255,0.4,0.3,,18,32,nil,3,3,2,3,11,4.4
 20,23,G1P0,caucasian,120.6,167,42.9,3,38w,no,no,no  ,GHTN,2:14PM,87,124,62,,99,no ,no,no,no ,no,no,no,no,no,10.8,162,0.55,0.2,,14,15,nil,2,2,2,2,8,3.2
 21,30,G2P1,caucasian,154,170,53,3,38w,no ,no,no,GHTN,12:58PM,77,115,61,,100,no ,no,no,no ,no,no,no,no,no,12.8,198,0.6,0.3,,28,24,27.2,4,4,4,4,16,6.4
 22,33,G2P1,caucasian,93.6,170,32.3,2,39w,no,no,no,no,1:19PM,82,109,64,,100,no ,no,no,no ,no,no,no,no,no,11.5,191,,,,,,nil,2,2,3,2,9,3.6
-23,28,G2P1,caucasian,119,167,42.21,2,38w2d,yes,yes,no,no,1:48PM,80,150,90,,100,no ,no,no,no ,no,no,no,no,no,13.1,187,0.6,0.3,,25,13,1=,5,3,4,5,17,6.8
+23,28,G2P1,caucasian,119,167,42.21,2,38w2d,yes,yes,no,no,1:48PM,80,140,80,,100,no ,no,no,no ,no,no,no,no,Mg,13.1,187,0.6,0.3,,25,13,1=,5,3,4,5,17,6.8
+24,18,G1P0,caucasian,60,162,,3,28w,no,yes,yes,no,9:30 AM,78,143,93,,97,no ,no,no,yes,no,no,no,30,Mg,12.5,205,0.86,0.2,,19,6,nil,5,3,6,5,19,7.6
+25,33,G2P1,caucasian,83,162,,3,29,no,yes,yes,no,9:45 AM,80,182,105,,98,no ,no,no,no ,no,no,no,60,Mg,14.3,234,0.6,0.2,,14,6,1+,4,4,4,4,16,6.4
+26,34,G1P0,Asian,74,165,,2,39,no,no,no,no,10:00 AM,82,126,72,,99,no ,no,no,no ,no,no,no,no,no,12.2,200,0.4,0.2,,18,12,nil,2,2,3,2,9,3.6
+27,26,G2P0,african american,114.7,165.1,42.08,2,37w6d,no,no,no,cHTN,10:13 AM,89,137,88,,98,no ,no,no,no ,no,no,no,XL 90,no,10.8,305,0.8,0.2,,28,17,nil,1,2,2,2,7,2.8
+28,33,G2P1,caucasian,80.1,157.5,32.27,3,37w2d,no,yes,no,gHTN,10.47AM,115,153,90,,99,no ,no,no,no ,no,no,no,no,no,11.8,126,0.6,0.2,,21,11,nil,4,5,4,5,18,7.2
+29,29,G5P2113,african american,87.2,158.8,34.61,3,36w6d,yes,yes,yes,no,12:41PM,98,164,99,,99,no ,no,yes,no ,no,no,labetalol IV 20 mg,no,Mg,11.1,100,0.7,0.2,,23,10,Trace,4,5,5,4,18,7.2
+30,19,G1P0,african american,107,167,41.2,3,37w,no,yes,yes,no,1:13 PM,99,140,90,,99,no ,no,no,no ,no,no,no,XL30,Mg,10.3,400,0.4,0.7,,25,11,nil,3,2,3,3,11,4.4
+31,20,G1P0,caucasian,61,157,24,2,37w,no,no,no,no,1PM,90,100,70,,99,no,no,no,no,no,no,no,no,no,10,250,0.4,0.2,,20,10,nil,0,1,1,1,3,1.2
+32,19,G1P0,african american,61.2,158.8,24.3,2,39w3d,no,no,no,no,12:43PM,93,109,63,,100,no,no,no,no,no,no,no,no,no,10.8,311,0.45,0.5,,20,7,nil,0,1,0,1,2,0.8
+33,31,G1P0 ,caucasian,70.4,175.3,22.92,2,29w6d,no ,no ,no,no,10:54 AM,94,120,70,,99,no,no,no,no,no,no,no,no,no,10.1,159,0.54,0.3,,45,59,nil,0,2,0,1,3,1.2
+34,24,G2P0,caucasian,107.5,149.9,47.85,3,25w1d,no,yes,yes,hypothyroidism,3PM,90,170,99,,96,no,no,Yes,no,no,no,no,XL30,Mg,11.7,300,0.58,0.6,,28,25,35.1 mg/dL,4,5,4,5,18,7.2
+35,35,G3P1,african american,119.1,171.5,40.52,3,23w1d,no,yes,yes,cHTN,5pm,99,168,95,,98,no,no,no,no,no,no,Labetalol 140 mg IV, XL 60,Hydralazine 10 mg IV,11.5,434,0.54,0.2,,19,10,1+,5,5,5,5,20,8
+36,22,G7P2,african american,63.1,167.6,22.45,2,35w4d,no,no,no,,10:00 AM,68,121,69,,99,no,no,no,no,no,no,no,no,no,12.3,180,0.66,0.3,,22,16,,0,1,0,1,2,0.8
+37,27,G2P1,caucasian,72.5,160,28.3,2,24w2d,no,no,no,no,10:30 AM,70,130,60,,100,no,no,no,no,no,no,no,no,Betamethasone,11.6,189,0.4,0.2,,,,nil,0,1,0,1,2,0.8
+38,27,G4P1,caucasian,133.4,160,52.08,3,31w4d,no,yes,yes,HTN,11:30Am,83,140,90,,96,yes,no,yes,no,4L,no,Labetalol 200 mg TID,XL 30,Mg,10.8,236,0.5,0.4,,22,25,10.6,3,2,2,3,10,4
+39,32,G4P1,caucasian,98.9,165.1,36.28,3,33w2d,no ,yes,yes,HTN,11:30 AM,95,172,91,,98,no,no,yes,no,no,no,Labetalol 40mg IV,,Mg,11.7,275,0.5,0.2,,18,19,3+,4,5,4,5,18,7.2
+40,27,G1P0,caucasian,87.4,165,32.05,3,23w1d,no,yes,yes,no,11:30 AM,103,140,93,,98,no,no,no,no,no,no,no,XL30,"Mg, Hydralazine 10",8.8,259,0.5,0.2,,23,25,3+,3,4,3,3,13,5.2
+41,37,G1P0,african american,145.4,170.2,50.21,3,34w,no,yes,yes,T2DM,12PM,95,156,70,,98,no,no,no,no,no,no,labetalol 600 mg TID,Nifedipine 120 mg,Mg,10.9,349,0.5,0.2,,25,31,37.6,4,3,5,5,17,6.8
+42,26,G2P1,caucasian,123,157,49,3,37w,no,no,no,Infective endocarditis ,3:00 PM,89,101,57,,98,no,no,no,no,no,no,no,no,no,10,304,0.5,0.2,,13,11,,2,2,3,2,9,3.6
+43,38,G10P1,african american,66.2,154.9,27.59,3,34w2d,no,yes,yes,,11AM,100,170,111,,98,no,no,no,no,no,no,no,XL 30,Hydralazine 10 mg IV,11,259,0.4,0.2,,11,15,3+,6,6,5,5,22,8.8
+44,18,G1P0,Hispanic ,61.2,147.3,28.22,3,37 w ,no,yes ,no,no,11:30Am,100,160,100,,98,no,no,no,no,no,no,no,no,Mg,11,232,0.4,0.3,,40,16,2+,5,5,4,4,18,7.2
+45,18,G1P0,Hispanic ,62.5,151.1,27,2,38w,no,no,no,no,2PM,70,110,60,,100,no ,no,no,no,no,no,no,no,no,11,152,0.54,0.2,,13,10,nil,0,0,0,0,0,0
+46,28,G1P0,caucasian,105.8,157.5,42.67,3,35w3d,no,yes,yes,cHTN,4PM,100,182,110,,98,no,no,yes,no,no,no,Labetalol 200 mg TID,XL 90,Mg,11,285,0.7,0.2,,23,10,3+,5,5,5,5,20,8
+47,37,G1P0,caucasian,80.6,162.6,30.38,2,39w2d,no,no,no,no,4:30PM,58,103,57,,100,no,no,no,no,no,no,no,no,no,12,200,0.5,0.2,,15,15,nil,1,0,0,0,1,0.4
+48,38,G2P1,Hispanic ,62.8,144.8,29.9,3,31w,no,yes,yes,no,5PM,100,162,80,,98,no ,no,yes,no,no,no,no,XL 30,no,11.7,363,0.4,0.2,,23,34,21.6,6,5,4,4,19,7.6
+49,18,G1P0,african american,138.9,160,54.24,3,40w,no,no,no,no,12PM,110,130,80,,100,no,no,no,no,no,no,no,no,no,11.3,268,0.5,0.2,,10,15,1+,2,1,1,2,6,2.4
+50,29,G4P1,Hispanic ,112.9,170.2,38.98,2,39w4d,no,no,no,SMA carrier,12:30 PM,80,120,60,,100,no,no,no,no,no,no,no,no,no,11.3,150,0.47,0.2,,,,nil,0,2,0,2,4,1.6
+51,18,G1P0,african american,97.8,160,38.17,3,39 w,no,no,no,no,1PM,70,118,80,,100,no,no,no,no,no,no,no,no,no,10.8,300,0.58,0.2,,10,5,1+,1,2,1,2,6,2.4
+52,25,G2P1,Hispanic ,79.2,152.4,34.1,2,41w,no ,no,no,no,11am,87,130,70,,100,no,no,no,no,no,no,no,no,no,15,241,0.7,0.2,,,,nil,0,2,0,2,4,1.6
